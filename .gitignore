@@ -1,0 +1,54 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Environment
+.env
+*.env
+!.env.example
+
+# Gmail OAuth
+credentials.json
+token.pickle
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs
+*.log
+logs/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# Playwright
+playwright/.local-browsers/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Streamlit secrets (contains passwords)
+.streamlit/secrets.toml

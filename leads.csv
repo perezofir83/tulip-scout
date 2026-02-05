@@ -1,0 +1,61 @@
+country,company_name,website,decision_maker,relevance_score,protocol,query,raw_snippet
+Poland,Unknown,,,Found via Portfolio Match (Hidden Web),portfolio_match,"filetype:pdf ""wine portfolio"" (""Israel"" OR ""Kosher"") site:.pl","[Search would execute for: filetype:pdf ""wine portfolio"" (""Israel"" OR ""Kosher"") site:.pl]
+
+This is a placeholder result. In production, this would contain real Google search results with URLs, snippets, and company information."
+Poland,Unknown,,,Found via Direct Executive (Decision Maker),direct_executive,"site:linkedin.com/in/ (""Wine Importer"" OR ""Distributor"" OR ""CEO"") (""Poland"") -intitle:jobs","[Search would execute for: site:linkedin.com/in/ (""Wine Importer"" OR ""Distributor"" OR ""CEO"") (""Poland"") -intitle:jobs]
+
+This is a placeholder result. In production, this would contain real Google search results with URLs, snippets, and company information."
+Poland,Unknown,,,Found via Official Entity (Vivino Related),official_entity,"related:vivino.com ""wine importer"" ""Poland""","[Search would execute for: related:vivino.com ""wine importer"" ""Poland""]
+
+This is a placeholder result. In production, this would contain real Google search results with URLs, snippets, and company information."
+Poland,Unknown,,,Found via Competitor Piggyback,competitor_piggyback,"""imported by"" (""Yarden"" OR ""Golan Heights"" OR ""Recanati"" OR ""Teperberg"") site:.pl","[Search would execute for: ""imported by"" (""Yarden"" OR ""Golan Heights"" OR ""Recanati"" OR ""Teperberg"") site:.pl]
+
+This is a placeholder result. In production, this would contain real Google search results with URLs, snippets, and company information."
+Romania,Unknown,,,Found via Portfolio Match (Hidden Web),portfolio_match,"filetype:pdf ""wine portfolio"" (""Israel"" OR ""Kosher"") site:.ro","[Search would execute for: filetype:pdf ""wine portfolio"" (""Israel"" OR ""Kosher"") site:.ro]
+
+This is a placeholder result. In production, this would contain real Google search results with URLs, snippets, and company information."
+Romania,Unknown,,,Found via Direct Executive (Decision Maker),direct_executive,"site:linkedin.com/in/ (""Wine Importer"" OR ""Distributor"" OR ""CEO"") (""Romania"") -intitle:jobs","[Search would execute for: site:linkedin.com/in/ (""Wine Importer"" OR ""Distributor"" OR ""CEO"") (""Romania"") -intitle:jobs]
+
+This is a placeholder result. In production, this would contain real Google search results with URLs, snippets, and company information."
+Romania,Unknown,,,Found via Official Entity (Vivino Related),official_entity,"related:vivino.com ""wine importer"" ""Romania""","[Search would execute for: related:vivino.com ""wine importer"" ""Romania""]
+
+This is a placeholder result. In production, this would contain real Google search results with URLs, snippets, and company information."
+Romania,Unknown,,,Found via Competitor Piggyback,competitor_piggyback,"""imported by"" (""Yarden"" OR ""Golan Heights"" OR ""Recanati"" OR ""Teperberg"") site:.ro","[Search would execute for: ""imported by"" (""Yarden"" OR ""Golan Heights"" OR ""Recanati"" OR ""Teperberg"") site:.ro]
+
+This is a placeholder result. In production, this would contain real Google search results with URLs, snippets, and company information."
+Czech Republic,Unknown,,,Found via Portfolio Match (Hidden Web),portfolio_match,"filetype:pdf ""wine portfolio"" (""Israel"" OR ""Kosher"") site:.cz","[Search would execute for: filetype:pdf ""wine portfolio"" (""Israel"" OR ""Kosher"") site:.cz]
+
+This is a placeholder result. In production, this would contain real Google search results with URLs, snippets, and company information."
+Czech Republic,Unknown,,,Found via Direct Executive (Decision Maker),direct_executive,"site:linkedin.com/in/ (""Wine Importer"" OR ""Distributor"" OR ""CEO"") (""Czech Republic"") -intitle:jobs","[Search would execute for: site:linkedin.com/in/ (""Wine Importer"" OR ""Distributor"" OR ""CEO"") (""Czech Republic"") -intitle:jobs]
+
+This is a placeholder result. In production, this would contain real Google search results with URLs, snippets, and company information."
+Czech Republic,Unknown,,,Found via Official Entity (Vivino Related),official_entity,"related:vivino.com ""wine importer"" ""Czech Republic""","[Search would execute for: related:vivino.com ""wine importer"" ""Czech Republic""]
+
+This is a placeholder result. In production, this would contain real Google search results with URLs, snippets, and company information."
+Czech Republic,Unknown,,,Found via Competitor Piggyback,competitor_piggyback,"""imported by"" (""Yarden"" OR ""Golan Heights"" OR ""Recanati"" OR ""Teperberg"") site:.cz","[Search would execute for: ""imported by"" (""Yarden"" OR ""Golan Heights"" OR ""Recanati"" OR ""Teperberg"") site:.cz]
+
+This is a placeholder result. In production, this would contain real Google search results with URLs, snippets, and company information."
+Japan,Unknown,,,Found via Portfolio Match (Hidden Web),portfolio_match,"filetype:pdf ""wine portfolio"" (""Israel"" OR ""Kosher"") site:.jp","[Search would execute for: filetype:pdf ""wine portfolio"" (""Israel"" OR ""Kosher"") site:.jp]
+
+This is a placeholder result. In production, this would contain real Google search results with URLs, snippets, and company information."
+Japan,Unknown,,,Found via Direct Executive (Decision Maker),direct_executive,"site:linkedin.com/in/ (""Wine Importer"" OR ""Distributor"" OR ""CEO"") (""Japan"") -intitle:jobs","[Search would execute for: site:linkedin.com/in/ (""Wine Importer"" OR ""Distributor"" OR ""CEO"") (""Japan"") -intitle:jobs]
+
+This is a placeholder result. In production, this would contain real Google search results with URLs, snippets, and company information."
+Japan,Unknown,,,Found via Official Entity (Vivino Related),official_entity,"related:vivino.com ""wine importer"" ""Japan""","[Search would execute for: related:vivino.com ""wine importer"" ""Japan""]
+
+This is a placeholder result. In production, this would contain real Google search results with URLs, snippets, and company information."
+Japan,Unknown,,,Found via Competitor Piggyback,competitor_piggyback,"""imported by"" (""Yarden"" OR ""Golan Heights"" OR ""Recanati"" OR ""Teperberg"") site:.jp","[Search would execute for: ""imported by"" (""Yarden"" OR ""Golan Heights"" OR ""Recanati"" OR ""Teperberg"") site:.jp]
+
+This is a placeholder result. In production, this would contain real Google search results with URLs, snippets, and company information."
+South Korea,Unknown,,,Found via Portfolio Match (Hidden Web),portfolio_match,"filetype:pdf ""wine portfolio"" (""Israel"" OR ""Kosher"") site:.kr","[Search would execute for: filetype:pdf ""wine portfolio"" (""Israel"" OR ""Kosher"") site:.kr]
+
+This is a placeholder result. In production, this would contain real Google search results with URLs, snippets, and company information."
+South Korea,Unknown,,,Found via Direct Executive (Decision Maker),direct_executive,"site:linkedin.com/in/ (""Wine Importer"" OR ""Distributor"" OR ""CEO"") (""South Korea"") -intitle:jobs","[Search would execute for: site:linkedin.com/in/ (""Wine Importer"" OR ""Distributor"" OR ""CEO"") (""South Korea"") -intitle:jobs]
+
+This is a placeholder result. In production, this would contain real Google search results with URLs, snippets, and company information."
+South Korea,Unknown,,,Found via Official Entity (Vivino Related),official_entity,"related:vivino.com ""wine importer"" ""South Korea""","[Search would execute for: related:vivino.com ""wine importer"" ""South Korea""]
+
+This is a placeholder result. In production, this would contain real Google search results with URLs, snippets, and company information."
+South Korea,Unknown,,,Found via Competitor Piggyback,competitor_piggyback,"""imported by"" (""Yarden"" OR ""Golan Heights"" OR ""Recanati"" OR ""Teperberg"") site:.kr","[Search would execute for: ""imported by"" (""Yarden"" OR ""Golan Heights"" OR ""Recanati"" OR ""Teperberg"") site:.kr]
+
+This is a placeholder result. In production, this would contain real Google search results with URLs, snippets, and company information."

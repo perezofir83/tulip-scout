@@ -1,0 +1,189 @@
+[
+    {
+        "country": "Poland",
+        "company_name": "Dom Wina Sp. z o.o.",
+        "website": "https://domwina.pl",
+        "decision_maker": "Unknown",
+        "decision_maker_title": "",
+        "protocol": "direct_executive",
+        "relevance_score": "One of the most established wine importers in Poland, founded 1996, operates retail chain",
+        "query": "site:linkedin.com/in/ (\\\"Wine Importer\\\" OR \\\"Distributor\\\" OR \\\"CEO\\\") (\\\"Poland\\\") -intitle:jobs",
+        "notes": "Supplies diverse selection to HoReCa, operates retail locations"
+    },
+    {
+        "country": "Poland",
+        "company_name": "Tudor House Ltd",
+        "website": "",
+        "decision_maker": "Unknown",
+        "decision_maker_title": "",
+        "protocol": "direct_executive",
+        "relevance_score": "One of the largest wine importers in Poland, specializes in exclusive alcoholic beverages",
+        "query": "site:linkedin.com/in/ (\\\"Wine Importer\\\" OR \\\"Distributor\\\" OR \\\"CEO\\\") (\\\"Poland\\\") -intitle:jobs",
+        "notes": "Premium/exclusive focus"
+    },
+    {
+        "country": "Poland",
+        "company_name": "Winosfera",
+        "website": "https://winosfera.pl",
+        "decision_maker": "Unknown",
+        "decision_maker_title": "",
+        "protocol": "official_entity",
+        "relevance_score": "Established 2007, retail locations in Poznań, Bydgoszcz, Kraków, promotes wine culture",
+        "query": "related:vivino.com \\\"wine importer\\\" \\\"Poland\\\"",
+        "notes": "Focus on wine education and tastings, Wine Club membership"
+    },
+    {
+        "country": "Poland",
+        "company_name": "Twoje Wino",
+        "website": "https://twojewino.pl",
+        "decision_maker": "Unknown",
+        "decision_maker_title": "",
+        "protocol": "official_entity",
+        "relevance_score": "Operating since 1999, largest in southern Poland, imports from 12 countries, 324 wine types",
+        "query": "related:vivino.com \\\"wine importer\\\" \\\"Poland\\\"",
+        "notes": "Producer, importer, and distributor"
+    },
+    {
+        "country": "Poland",
+        "company_name": "AMBRA S.A.",
+        "website": "https://ambra.com.pl",
+        "decision_maker": "Unknown",
+        "decision_maker_title": "",
+        "protocol": "official_entity",
+        "relevance_score": "Significant producer, importer, and distributor in Poland",
+        "query": "related:vivino.com \\\"wine importer\\\" \\\"Poland\\\"",
+        "notes": "Multi-function: producer + importer + distribution"
+    },
+    {
+        "country": "Poland",
+        "company_name": "Winkolekcja",
+        "website": "",
+        "decision_maker": "Unknown",
+        "decision_maker_title": "",
+        "protocol": "official_entity",
+        "relevance_score": "Strong focus on on-trade and premium portfolios",
+        "query": "related:vivino.com \\\"wine importer\\\" \\\"Poland\\\"",
+        "notes": "Premium/HoReCa specialist"
+    },
+    {
+        "country": "Romania",
+        "company_name": "VINIMONDO",
+        "website": "",
+        "decision_maker": "Unknown",
+        "decision_maker_title": "",
+        "protocol": "official_entity",
+        "relevance_score": "Major importer of premium wines, over 1,000 labels from international wineries",
+        "query": "related:vivino.com \\\"wine importer\\\" \\\"Romania\\\"",
+        "notes": "Part of Cristalex Trading, premium/super-premium focus"
+    },
+    {
+        "country": "Romania",
+        "company_name": "Alexandrion Group",
+        "website": "",
+        "decision_maker": "Unknown",
+        "decision_maker_title": "",
+        "protocol": "official_entity",
+        "relevance_score": "Major manufacturer and distributor, owns Romanian vineyards",
+        "query": "related:vivino.com \\\"wine importer\\\" \\\"Romania\\\"",
+        "notes": "Vertical integration: production + distribution"
+    },
+    {
+        "country": "Romania",
+        "company_name": "Indigene Wines",
+        "website": "",
+        "decision_maker": "Unknown",
+        "decision_maker_title": "",
+        "protocol": "official_entity",
+        "relevance_score": "E-commerce platform, 80+ curated Romanian wines",
+        "query": "related:vivino.com \\\"wine importer\\\" \\\"Romania\\\"",
+        "notes": "Domestic focus, online sales"
+    },
+    {
+        "country": "Romania",
+        "company_name": "Premium Drinks",
+        "website": "",
+        "decision_maker": "Unknown",
+        "decision_maker_title": "",
+        "protocol": "official_entity",
+        "relevance_score": "Specialized distributor, Portuguese and Romanian wines plus boutique varieties",
+        "query": "related:vivino.com \\\"wine importer\\\" \\\"Romania\\\"",
+        "notes": "Niche/boutique specialist"
+    },
+    {
+        "country": "Czech Republic",
+        "company_name": "8Wines.com",
+        "website": "https://8wines.com",
+        "decision_maker": "Unknown",
+        "decision_maker_title": "",
+        "protocol": "direct_executive",
+        "relevance_score": "Prague-based online retailer and importer, sources from 700+ global wineries",
+        "query": "site:linkedin.com/in/ (\\\"Wine Importer\\\" OR \\\"Distributor\\\" OR \\\"CEO\\\") (\\\"Czech Republic\\\") -intitle:jobs",
+        "notes": "Largest online selection in Czech Republic"
+    },
+    {
+        "country": "Czech Republic",
+        "company_name": "Adveal Wines & Spirits",
+        "website": "",
+        "decision_maker": "Unknown",
+        "decision_maker_title": "",
+        "protocol": "direct_executive",
+        "relevance_score": "Wine and spirits distributor in Czech Republic",
+        "query": "site:linkedin.com/in/ (\\\"Wine Importer\\\" OR \\\"Distributor\\\" OR \\\"CEO\\\") (\\\"Czech Republic\\\") -intitle:jobs",
+        "notes": "Wine + spirits"
+    },
+    {
+        "country": "Czech Republic",
+        "company_name": "Global Wines & Spirits",
+        "website": "",
+        "decision_maker": "Unknown",
+        "decision_maker_title": "",
+        "protocol": "direct_executive",
+        "relevance_score": "Wine and spirits importer in Czech Republic",
+        "query": "site:linkedin.com/in/ (\\\"Wine Importer\\\" OR \\\"Distributor\\\" OR \\\"CEO\\\") (\\\"Czech Republic\\\") -intitle:jobs",
+        "notes": "International portfolio"
+    },
+    {
+        "country": "Japan",
+        "company_name": "Vinaiota",
+        "website": "",
+        "decision_maker": "Hisato Ota",
+        "decision_maker_title": "Founder",
+        "protocol": "direct_executive",
+        "relevance_score": "Prominent importer of natural wines into Japan",
+        "query": "site:linkedin.com/in/ (\\\"Wine Importer\\\" OR \\\"Distributor\\\" OR \\\"CEO\\\") (\\\"Japan\\\") -intitle:jobs",
+        "notes": "Natural wine specialist, well-known in market"
+    },
+    {
+        "country": "Japan",
+        "company_name": "Pernod Ricard Japan",
+        "website": "",
+        "decision_maker": "Tracy Kwan",
+        "decision_maker_title": "Japan CEO",
+        "protocol": "direct_executive",
+        "relevance_score": "Major spirits and wine distributor in Japan",
+        "query": "site:linkedin.com/in/ (\\\"Wine Importer\\\" OR \\\"Distributor\\\" OR \\\"CEO\\\") (\\\"Japan\\\") -intitle:jobs",
+        "notes": "Large multinational presence"
+    },
+    {
+        "country": "Japan",
+        "company_name": "Farmstone",
+        "website": "",
+        "decision_maker": "Hiromi Ishida",
+        "decision_maker_title": "Manager",
+        "protocol": "direct_executive",
+        "relevance_score": "Notable importer of Australian wines, diverse New World portfolio",
+        "query": "site:linkedin.com/in/ (\\\"Wine Importer\\\" OR \\\"Distributor\\\" OR \\\"CEO\\\") (\\\"Japan\\\") -intitle:jobs",
+        "notes": "Australian wine specialist, ~250 importers in Japan market"
+    },
+    {
+        "country": "South Korea",
+        "company_name": "[Search pending]",
+        "website": "",
+        "decision_maker": "",
+        "decision_maker_title": "",
+        "protocol": "official_entity",
+        "relevance_score": "Pending search completion",
+        "query": "related:vivino.com \\\"wine importer\\\" \\\"South Korea\\\"",
+        "notes": "Search in progress"
+    }
+]

@@ -1,0 +1,166 @@
+[
+    {
+        "day": 1,
+        "country": "Argentina",
+        "country_code": "ar",
+        "company_name": "VINUV",
+        "website": "",
+        "decision_maker": "Zane Holscher",
+        "decision_maker_title": "Founder",
+        "relevance_score": "Argentina wine importer to US market, owns Uco Valley vineyard",
+        "israel_trade_status": "MERCOSUR",
+        "google_maps_query": "VINUV wine importer Argentina address",
+        "search_date": "2026-02-04"
+    },
+    {
+        "day": 1,
+        "country": "Argentina",
+        "company_name": "Vinoteca Romawine",
+        "website": "",
+        "google_maps_address": "Ramos Mejia, Argentina",
+        "phone": "+54 114 460 5623",
+        "email": "vinotecaromawine@gmail.com",
+        "relevance_score": "Local wine importer and retailer, premium wines",
+        "israel_trade_status": "MERCOSUR"
+    },
+    {
+        "day": 1,
+        "country": "Argentina",
+        "company_name": "Colucci Wines",
+        "website": "",
+        "google_maps_address": "Buenos Aires, Argentina",
+        "phone": "+5491153178056",
+        "email": "info@colucciwines.com.ar",
+        "relevance_score": "Premium wines from renowned producers, Argentine + international",
+        "israel_trade_status": "MERCOSUR"
+    },
+    {
+        "day": 1,
+        "country": "Australia",
+        "company_name": "World Wine Estates",
+        "website": "https://worldwineestates.com.au",
+        "decision_maker": "James Johnston",
+        "decision_maker_title": "Owner",
+        "relevance_score": "Est. 1994, French/European specialist, national distribution, organic/biodynamic focus",
+        "israel_trade_status": "Negotiating FTA",
+        "google_maps_query": "World Wine Estates Australia Sydney address"
+    },
+    {
+        "day": 1,
+        "country": "Australia",
+        "company_name": "Empire Liquor",
+        "website": "",
+        "decision_maker": "Brenton Quirini",
+        "decision_maker_title": "Owner & Managing Director",
+        "google_maps_address": "South Australia",
+        "relevance_score": "Est. 2000, represents d'Arenberg, Paulett Wines, long-term relationships",
+        "israel_trade_status": "Negotiating FTA"
+    },
+    {
+        "day": 1,
+        "country": "Australia",
+        "company_name": "Elite Wine Importers",
+        "website": "",
+        "relevance_score": "Wine importer and distributor",
+        "israel_trade_status": "Negotiating FTA",
+        "google_maps_query": "Elite Wine Importers Australia address"
+    },
+    {
+        "day": 1,
+        "country": "Austria",
+        "company_name": "Schlumberger & Top Spirit",
+        "website": "",
+        "relevance_score": "Leading wine and spirits distributor in Austrian market",
+        "israel_trade_status": "EU/FTA",
+        "google_maps_query": "Schlumberger Top Spirit Austria Vienna address"
+    },
+    {
+        "day": 1,
+        "country": "Austria",
+        "company_name": "ADrinks GmbH",
+        "website": "",
+        "decision_maker": "Jürgen Kessler",
+        "decision_maker_title": "CEO & Owner",
+        "relevance_score": "Non-alcoholic wine producer, seeking international distributors",
+        "israel_trade_status": "EU/FTA",
+        "google_maps_query": "ADrinks GmbH Austria address"
+    },
+    {
+        "day": 1,
+        "country": "Belgium",
+        "company_name": "Global Wineries",
+        "website": "",
+        "decision_maker": "Peter Goossens",
+        "decision_maker_title": "Owner",
+        "relevance_score": "Award-winning wines from 17 countries, Hungarian wine legend",
+        "israel_trade_status": "EU/FTA",
+        "google_maps_query": "Global Wineries Belgium Peter Goossens address"
+    },
+    {
+        "day": 1,
+        "country": "Belgium",
+        "company_name": "Baeten Vinopolis",
+        "website": "",
+        "relevance_score": "Wine importer listed in Belgian wine trade database",
+        "israel_trade_status": "EU/FTA",
+        "google_maps_query": "Baeten Vinopolis Belgium address"
+    },
+    {
+        "day": 1,
+        "country": "Brazil",
+        "company_name": "VCT Brasil",
+        "website": "",
+        "relevance_score": "Leading wine importer/distributor, strong branding and market reach",
+        "israel_trade_status": "MERCOSUR",
+        "google_maps_query": "VCT Brasil wine importer address"
+    },
+    {
+        "day": 1,
+        "country": "Brazil",
+        "company_name": "Mistral Importadora",
+        "website": "",
+        "relevance_score": "Key wine importer with strong premium-wine portfolio",
+        "israel_trade_status": "MERCOSUR",
+        "google_maps_query": "Mistral Importadora Brazil address"
+    },
+    {
+        "day": 1,
+        "country": "Brazil",
+        "company_name": "World Wine Brazil",
+        "website": "",
+        "relevance_score": "Alliances with international wineries, strong distribution network",
+        "israel_trade_status": "MERCOSUR",
+        "google_maps_query": "World Wine Brazil address"
+    },
+    {
+        "day": 1,
+        "country": "Brazil",
+        "company_name": "Qualimpor",
+        "website": "",
+        "relevance_score": "Wine and olive oil importer, Portugal/Argentina/Chile focus",
+        "israel_trade_status": "MERCOSUR",
+        "google_maps_query": "Qualimpor Brazil wine importer address"
+    },
+    {
+        "day": 1,
+        "country": "Canada",
+        "company_name": "Arterra Wines Canada",
+        "website": "https://arterracanada.com",
+        "decision_maker": "John Boynton",
+        "decision_maker_title": "President",
+        "relevance_score": "Canada's leading wine company, domestic and international sales",
+        "israel_trade_status": "FTA",
+        "google_maps_query": "Arterra Wines Canada Toronto address"
+    },
+    {
+        "day": 1,
+        "country": "Canada",
+        "company_name": "Caymus Canada",
+        "website": "https://caymuscanada.com",
+        "decision_maker": "Chuck Wagner, Charlie Wagner, Jenny Wagner",
+        "decision_maker_title": "Founders",
+        "relevance_score": "Est. 2023, exclusive distributor of Caymus and Wagner family wines",
+        "israel_trade_status": "FTA",
+        "google_maps_query": "Caymus Canada address"
+    }
+]

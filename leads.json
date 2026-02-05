@@ -1,0 +1,202 @@
+[
+  {
+    "country": "Poland",
+    "protocol": "portfolio_match",
+    "protocol_name": "Portfolio Match",
+    "query": "filetype:pdf \"wine portfolio\" (\"Israel\" OR \"Kosher\") site:.pl",
+    "company_name": "Unknown",
+    "website": null,
+    "decision_maker": null,
+    "relevance_score": "Found via Portfolio Match (Hidden Web)"
+  },
+  {
+    "country": "Poland",
+    "protocol": "direct_executive",
+    "protocol_name": "Direct Executive",
+    "query": "site:linkedin.com/in/ (\"Wine Importer\" OR \"Distributor\" OR \"CEO\") (\"Poland\") -intitle:jobs",
+    "company_name": "Unknown",
+    "website": null,
+    "decision_maker": null,
+    "relevance_score": "Found via Direct Executive (Decision Maker)"
+  },
+  {
+    "country": "Poland",
+    "protocol": "official_entity",
+    "protocol_name": "Official Entity",
+    "query": "related:vivino.com \"wine importer\" \"Poland\"",
+    "company_name": "Unknown",
+    "website": null,
+    "decision_maker": null,
+    "relevance_score": "Found via Official Entity (Vivino Related)"
+  },
+  {
+    "country": "Poland",
+    "protocol": "competitor_piggyback",
+    "protocol_name": "Competitor Piggyback",
+    "query": "\"imported by\" (\"Yarden\" OR \"Golan Heights\" OR \"Recanati\" OR \"Teperberg\") site:.pl",
+    "company_name": "Unknown",
+    "website": null,
+    "decision_maker": null,
+    "relevance_score": "Found via Competitor Piggyback"
+  },
+  {
+    "country": "Romania",
+    "protocol": "portfolio_match",
+    "protocol_name": "Portfolio Match",
+    "query": "filetype:pdf \"wine portfolio\" (\"Israel\" OR \"Kosher\") site:.ro",
+    "company_name": "Unknown",
+    "website": null,
+    "decision_maker": null,
+    "relevance_score": "Found via Portfolio Match (Hidden Web)"
+  },
+  {
+    "country": "Romania",
+    "protocol": "direct_executive",
+    "protocol_name": "Direct Executive",
+    "query": "site:linkedin.com/in/ (\"Wine Importer\" OR \"Distributor\" OR \"CEO\") (\"Romania\") -intitle:jobs",
+    "company_name": "Unknown",
+    "website": null,
+    "decision_maker": null,
+    "relevance_score": "Found via Direct Executive (Decision Maker)"
+  },
+  {
+    "country": "Romania",
+    "protocol": "official_entity",
+    "protocol_name": "Official Entity",
+    "query": "related:vivino.com \"wine importer\" \"Romania\"",
+    "company_name": "Unknown",
+    "website": null,
+    "decision_maker": null,
+    "relevance_score": "Found via Official Entity (Vivino Related)"
+  },
+  {
+    "country": "Romania",
+    "protocol": "competitor_piggyback",
+    "protocol_name": "Competitor Piggyback",
+    "query": "\"imported by\" (\"Yarden\" OR \"Golan Heights\" OR \"Recanati\" OR \"Teperberg\") site:.ro",
+    "company_name": "Unknown",
+    "website": null,
+    "decision_maker": null,
+    "relevance_score": "Found via Competitor Piggyback"
+  },
+  {
+    "country": "Czech Republic",
+    "protocol": "portfolio_match",
+    "protocol_name": "Portfolio Match",
+    "query": "filetype:pdf \"wine portfolio\" (\"Israel\" OR \"Kosher\") site:.cz",
+    "company_name": "Unknown",
+    "website": null,
+    "decision_maker": null,
+    "relevance_score": "Found via Portfolio Match (Hidden Web)"
+  },
+  {
+    "country": "Czech Republic",
+    "protocol": "direct_executive",
+    "protocol_name": "Direct Executive",
+    "query": "site:linkedin.com/in/ (\"Wine Importer\" OR \"Distributor\" OR \"CEO\") (\"Czech Republic\") -intitle:jobs",
+    "company_name": "Unknown",
+    "website": null,
+    "decision_maker": null,
+    "relevance_score": "Found via Direct Executive (Decision Maker)"
+  },
+  {
+    "country": "Czech Republic",
+    "protocol": "official_entity",
+    "protocol_name": "Official Entity",
+    "query": "related:vivino.com \"wine importer\" \"Czech Republic\"",
+    "company_name": "Unknown",
+    "website": null,
+    "decision_maker": null,
+    "relevance_score": "Found via Official Entity (Vivino Related)"
+  },
+  {
+    "country": "Czech Republic",
+    "protocol": "competitor_piggyback",
+    "protocol_name": "Competitor Piggyback",
+    "query": "\"imported by\" (\"Yarden\" OR \"Golan Heights\" OR \"Recanati\" OR \"Teperberg\") site:.cz",
+    "company_name": "Unknown",
+    "website": null,
+    "decision_maker": null,
+    "relevance_score": "Found via Competitor Piggyback"
+  },
+  {
+    "country": "Japan",
+    "protocol": "portfolio_match",
+    "protocol_name": "Portfolio Match",
+    "query": "filetype:pdf \"wine portfolio\" (\"Israel\" OR \"Kosher\") site:.jp",
+    "company_name": "Unknown",
+    "website": null,
+    "decision_maker": null,
+    "relevance_score": "Found via Portfolio Match (Hidden Web)"
+  },
+  {
+    "country": "Japan",
+    "protocol": "direct_executive",
+    "protocol_name": "Direct Executive",
+    "query": "site:linkedin.com/in/ (\"Wine Importer\" OR \"Distributor\" OR \"CEO\") (\"Japan\") -intitle:jobs",
+    "company_name": "Unknown",
+    "website": null,
+    "decision_maker": null,
+    "relevance_score": "Found via Direct Executive (Decision Maker)"
+  },
+  {
+    "country": "Japan",
+    "protocol": "official_entity",
+    "protocol_name": "Official Entity",
+    "query": "related:vivino.com \"wine importer\" \"Japan\"",
+    "company_name": "Unknown",
+    "website": null,
+    "decision_maker": null,
+    "relevance_score": "Found via Official Entity (Vivino Related)"
+  },
+  {
+    "country": "Japan",
+    "protocol": "competitor_piggyback",
+    "protocol_name": "Competitor Piggyback",
+    "query": "\"imported by\" (\"Yarden\" OR \"Golan Heights\" OR \"Recanati\" OR \"Teperberg\") site:.jp",
+    "company_name": "Unknown",
+    "website": null,
+    "decision_maker": null,
+    "relevance_score": "Found via Competitor Piggyback"
+  },
+  {
+    "country": "South Korea",
+    "protocol": "portfolio_match",
+    "protocol_name": "Portfolio Match",
+    "query": "filetype:pdf \"wine portfolio\" (\"Israel\" OR \"Kosher\") site:.kr",
+    "company_name": "Unknown",
+    "website": null,
+    "decision_maker": null,
+    "relevance_score": "Found via Portfolio Match (Hidden Web)"
+  },
+  {
+    "country": "South Korea",
+    "protocol": "direct_executive",
+    "protocol_name": "Direct Executive",
+    "query": "site:linkedin.com/in/ (\"Wine Importer\" OR \"Distributor\" OR \"CEO\") (\"South Korea\") -intitle:jobs",
+    "company_name": "Unknown",
+    "website": null,
+    "decision_maker": null,
+    "relevance_score": "Found via Direct Executive (Decision Maker)"
+  },
+  {
+    "country": "South Korea",
+    "protocol": "official_entity",
+    "protocol_name": "Official Entity",
+    "query": "related:vivino.com \"wine importer\" \"South Korea\"",
+    "company_name": "Unknown",
+    "website": null,
+    "decision_maker": null,
+    "relevance_score": "Found via Official Entity (Vivino Related)"
+  },
+  {
+    "country": "South Korea",
+    "protocol": "competitor_piggyback",
+    "protocol_name": "Competitor Piggyback",
+    "query": "\"imported by\" (\"Yarden\" OR \"Golan Heights\" OR \"Recanati\" OR \"Teperberg\") site:.kr",
+    "company_name": "Unknown",
+    "website": null,
+    "decision_maker": null,
+    "relevance_score": "Found via Competitor Piggyback"
+  }
+]
